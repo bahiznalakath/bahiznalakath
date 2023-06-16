@@ -9,14 +9,14 @@
 - <img src="./assets/collaborate.gif" width="30"/> I’m looking to collaborate on Open Source Project<br>
 - <img src="./assets/seedling.gif" width="30"/> I’m currently learning flutter<br>
 - <img src="./assets/ask_me.gif" width="20"/> Ask me about flutter, python, php .<br>
-- <img src="./assets/mail.gif" width="30"/> How to <a href="mailto:mfazilkp7@gmail.com">reach me</a><br>
+- <img src="./assets/mail.gif" width="30"/> How to <a href="mailto:bahiznalakath123@gmail.com">reach me</a><br>
 - <img src="./assets/thunder.gif" height="20"/> I like Coding
 <br><br>
 
 ## <img src="./assets/Eyes.png" width="25"/> Views and <img src="./assets/Blue%20Heart.png" width="25"/> Followers
 <br>
-<a href="https://github.com/MOHAMMED-FAZIL-KP">
-    <img src="https://komarev.com/ghpvc/?username=MOHAMMED-FAZIL-KP">
+<a href="https://github.com/bahiznalakath">
+    <img src="https://komarev.com/ghpvc/?username=bahiznalakath">
 </a>
 <a href="https://github.com/bahiznalakath-KP?tab=followers"><img src="https://img.shields.io/github/followers/bahiznalakath?label=Followers&style=social" alt="GitHub Badge"></a>
 <br><br>
@@ -27,8 +27,8 @@
 <br>
 
 <a href = "https://twitter.com/bahiznalakath"><img src="https://img.icons8.com/fluent/48/000000/twitter.png"/></a>
-<a href = "https://www.linkedin.com/in/fazil-kp-061459235/"><img src="https://img.icons8.com/fluency/1x/linkedin.png"/></a>
-<a href = "https://www.instagram.com/fazil__.__ "><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png"/></a>
+<a href = "https://www.linkedin.com/in/muhammed-bahiz-n-789a01228/"><img src="https://img.icons8.com/fluency/1x/linkedin.png"/></a>
+<a href = "https://instagram.com/bahiz_nalakath?igshid=MzRlODBiNWFlZA=="><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png"/></a>
 <br><br>
 
 
@@ -53,15 +53,15 @@
 ## <img src="./assets/graph-animation.gif" width="30"/> GitHub Stats:
 <br>
 
-![](https://github-readme-stats-sigma-five.vercel.app/api?username=MOHAMMED-FAZIL-KP&theme=dark&hide_border=true&include_all_commits=false&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=MOHAMMED-FAZIL-KP&theme=dark&hide_border=true)<br/>
-![](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=MOHAMMED-FAZIL-KP&theme=dark&hide_border=true&include_all_commits=false&count_private=true&layout=compact) [![Fazil's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=MOHAMMED-FAZIL-KP&theme=tokyo-night)](https://github.com/MOHAMMED-FAZIL-KP?tab=repositories)
+![](https://github-readme-stats-sigma-five.vercel.app/api?username=bahiznalakath&theme=dark&hide_border=true&include_all_commits=false&count_private=true)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=bahiznalakath&theme=dark&hide_border=true)<br/>
+![](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=bahiznalakath&theme=dark&hide_border=true&include_all_commits=false&count_private=true&layout=compact) [![Bahiz's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=bahiznalakath&theme=tokyo-night)](https://github.com/bahiznalakath?tab=repositories)
 <br><br>
 
 ## <img src="./assets/trophies.gif" width="30"/> GitHub Trophies
 <br>
 
-![](https://github-profile-trophy.vercel.app/?username=MOHAMMED-FAZIL-KP&theme=dark_dimmed&no-frame=false&no-bg=true&margin-w=4)
+![](https://github-profile-trophy.vercel.app/?username=bahiznalakath&theme=dark_dimmed&no-frame=false&no-bg=true&margin-w=4)
 
 <br>
 
@@ -71,7 +71,7 @@
 ## <img src="./assets/Dove.png" width="30"> Latest Tweet
 
 
-<a href="https://twitter.com/FazilKp15"><img src="https://gtce.itsvg.in/api?username=FazilKp15&theme=discord_old_blurple&icon=user&border=false"/></a>
+<a href="https://twitter.com/bahiznalakath"><img src="https://gtce.itsvg.in/api?username=bahiznalakath&theme=discord_old_blurple&icon=user&border=false"/></a>
 
 <br/><br/>
 
