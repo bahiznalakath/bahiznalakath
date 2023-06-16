@@ -21,11 +21,6 @@
 <a href="https://github.com/bahiznalakath-KP?tab=followers"><img src="https://img.shields.io/github/followers/bahiznalakath?label=Followers&style=social" alt="GitHub Badge"></a>
 <br><br>
 
-##  <img src="./assets/badge.gif" width="40"> Badges
-<br>
-
-
-[![An image of @mfazilkp7's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/mfazilkp7)](https://holopin.io/@mfazilkp7)
 
 
 ## <img src="./assets/spinning-globe-animated.gif" width="25"> Socials
