@@ -18,7 +18,7 @@
 <a href="https://github.com/MOHAMMED-FAZIL-KP">
     <img src="https://komarev.com/ghpvc/?username=MOHAMMED-FAZIL-KP">
 </a>
-<a href="https://github.com/MOHAMMED-FAZIL-KP?tab=followers"><img src="https://img.shields.io/github/followers/MOHAMMED-FAZIL-KP?label=Followers&style=social" alt="GitHub Badge"></a>
+<a href="https://github.com/bahiznalakath-KP?tab=followers"><img src="https://img.shields.io/github/followers/bahiznalakath?label=Followers&style=social" alt="GitHub Badge"></a>
 <br><br>
 
 ##  <img src="./assets/badge.gif" width="40"> Badges
@@ -31,7 +31,7 @@
 ## <img src="./assets/spinning-globe-animated.gif" width="25"> Socials
 <br>
 
-<a href = "https://twitter.com/FazilKp15"><img src="https://img.icons8.com/fluent/48/000000/twitter.png"/></a>
+<a href = "https://twitter.com/bahiznalakath"><img src="https://img.icons8.com/fluent/48/000000/twitter.png"/></a>
 <a href = "https://www.linkedin.com/in/fazil-kp-061459235/"><img src="https://img.icons8.com/fluency/1x/linkedin.png"/></a>
 <a href = "https://www.instagram.com/fazil__.__ "><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png"/></a>
 <br><br>
