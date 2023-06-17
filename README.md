@@ -97,7 +97,7 @@
 
 <img src="assets/Star.png" width="25"/>&nbsp;[Give a star to this project](https://github.com/MOHAMMED-FAZIL-KP/MOHAMMED-FAZIL-KP) <br/>
 <img src="assets/Folded Hands Light Skin Tone.png" width="25"/>&nbsp;[Follow me on GitHub](https://github.com/MOHAMMED-FAZIL-KP)<br/>
-<img src="assets/Hot Beverage.png" width="25"> [Buy me a coffee](https://www.buymeacoffee.com/mfazilkp10t) (Tired of drinking Tea)
+<img src="assets/Hot Beverage.png" width="25"> [Buy me a coffee]( https://www.buymeacoffee.com/bahiznalakr) (Tired of drinking Tea)
 
 <br><br><br>
 
