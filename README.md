@@ -5,7 +5,7 @@
 ## <img src="./assets/Man%20Technologist%20Light%20Skin%20Tone.png" width="35"/> About Me
 <br/>&nbsp;&nbsp;
 <img align="right" alt="coding" width="300" src="./assets/coding.gif"/> &nbsp;&nbsp;
-- <img src="./assets/telescope.gif" width="30"/> "I am open to new opportunities and eager to contribute my skills and expertise<br>
+- <img src="./assets/telescope.gif" width="30"/> I am open to new opportunities and eager to contribute my skills and expertise.<br>
 - <img src="./assets/collaborate.gif" width="30"/> I’m looking to collaborate on Open Source Project<br>
 - <img src="./assets/seedling.gif" width="30"/> I’m currently learning flutter<br>
 - <img src="./assets/ask_me.gif" width="20"/> Ask me about flutter, python, php .<br>
