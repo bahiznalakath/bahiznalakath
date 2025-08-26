@@ -1,8 +1,8 @@
-# <div align="center">![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=300&section=header&text=MUHAMMED%20BAHIZ%20N&fontSize=75&fontColor=fff&animation=twinkling&fontAlignY=38&desc=Flutter%20Developer%20%7C%20Python%20Enthusiast%20%7C%20Code%20Artist&descAlignY=51&descAlign=50)</div>
+# <div align="center">![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=300&section=header&text=MUHAMMED%20BAHIZ%20N&fontSize=72&fontColor=fff&animation=twinkling&fontAlignY=38&desc=Flutter%20Developer%20%7C%20Python%20Enthusiast%20%7C%20Code%20Artist&descAlignY=51&descAlign=50)</div>
 
 <div align="center">
   
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=35&duration=3000&pause=1000&color=FF6B6B&background=00000000&center=true&vCenter=true&multiline=true&repeat=true&random=false&width=800&height=100&lines=%F0%9F%9A%80+Welcome+to+my+Digital+Universe!;%F0%9F%8C%9F+Building+Dreams+with+Code;%F0%9F%92%A1+Innovation+%7C+Creativity+%7C+Excellence)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=35&duration=3000&pause=1000&color=FF6B6B&background=00000000&center=true&vCenter=true&multiline=true&repeat=true&random=false&width=800&height=100&lines=%F0%9F%9A%80+Flutter+Lead+Engineer+%40+Voyager+IT;%F0%9F%8C%9F+Leading+Teams+%7C+Building+Excellence;%F0%9F%92%A1+Innovation+%7C+Leadership+%7C+Mentorship)](https://git.io/typing-svg)
 
 <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" width="100%"/>
 
@@ -14,26 +14,29 @@
 
 <img align="right" alt="Coding GIF" width="400" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif"/>
 
-### <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="35"> **About Me:**
+### <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="35"> **Professional Summary:**
 
 ```python
 class BahizNalakath:
     def __init__(self):
-        self.name = "  Muhammed Bahiz N  "
-        self.role = "Flutter Developer"
+        self.name = "Muhammed Bahiz N"
+        self.role = "Flutter Lead Engineer @ Voyager IT Solutions Pvt Ltd"
+        self.current_position = "Leading Flutter development team & architecture"
         self.language_spoken = ["English", "Malayalam", "Hindi"]
         self.location = "India 🇮🇳"
         
     def current_work(self):
         return [
-            "🔥 Building innovative mobile apps with Flutter",
+            "🏢 Leading Flutter team at Voyager IT Solutions",
+            "🔥 Architecting scalable mobile applications",
+            "👥 Mentoring junior developers & code reviews",
             "🌟 Contributing to open-source projects",
-            "📚 Mastering advanced Flutter patterns",
-            "🚀 Exploring new technologies"
+            "📚 Implementing best practices & design patterns",
+            "🚀 Exploring cutting-edge mobile technologies"
         ]
     
     def life_philosophy(self):
-        return "Code is poetry written in logic 💫"
+        return "Leading teams to transform ideas into exceptional mobile experiences 💫"
 
 me = BahizNalakath()
 print(me.life_philosophy())
@@ -52,19 +55,20 @@ print(me.life_philosophy())
 <td width="50%" valign="top" style="border: none;">
 
 ### 🎯 **Current Focus**
-- 🚀 **Flutter Mastery**: Advanced state management & animations
+- 🏢 **Team Leadership**: Leading Flutter development at Voyager IT Solutions
+- 🏗️ **Architecture Design**: Building scalable mobile app architectures
+- 👥 **Team Mentorship**: Guiding developers & establishing best practices
 - 🌐 **Open Source**: Contributing to the developer community  
-- 📱 **Mobile Innovation**: Creating intuitive user experiences
-- 🤖 **AI Integration**: Exploring AI-powered mobile solutions
+- 🤖 **Innovation**: Integrating AI/ML solutions in mobile apps
 
 </td>
 <td width="50%" valign="top" style="border: none;">
 
 ### 💡 **Goals for 2025**
-- 🏆 **100+ Open Source Contributions**
-- 📚 **Master Flutter Architecture Patterns**
-- 🌟 **Launch Personal Mobile App**
-- 🎓 **Mentor Aspiring Developers**
+- 🏆 **Scale Development Team**: Expand Flutter expertise across organization
+- 📚 **Advanced Architecture**: Implement micro-frontend patterns in Flutter
+- 🌟 **Innovation Leadership**: Drive adoption of latest Flutter technologies
+- 🎓 **Community Impact**: Mentor 50+ developers through talks & workshops
 
 </td>
 </tr>
@@ -179,11 +183,12 @@ print(me.life_philosophy())
 <td>
 
 ```text
-🌟 Total Contributions: 500+
+🏢 Current Role: Flutter Lead Engineer
+🌟 Team Size: 5+ Flutter Developers
 🔥 Current Streak: 45 days
-💻 Lines of Code: 50,000+
-🏆 GitHub Stars Earned: 100+
-🎯 Projects Completed: 25+
+💻 Lines of Code: 100,000+
+🏆 Projects Delivered: 15+ Enterprise Apps
+📱 Apps in Production: 25+
 ☕ Coffee Consumed: ∞
 ```
 
@@ -262,5 +267,4 @@ JavaScript 1 hr 8 mins     █▓░░░░░░░░░░░░░░░�
 <img src="https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/bottom_header.svg"/>
 
 </div>
-
-![Footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=200&section=footer&animation=fadeIn)
+ 
