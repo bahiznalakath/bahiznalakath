@@ -1,110 +1,171 @@
+# 🚀 Hi there, I'm Muhammed Bahiz N! 
 
-<p align="center"><img src="./assets/developer.png" height="250"></p>
-<h1 align="center">Hi <img src="./assets/Waving%20Hand%20Light%20Skin%20Tone.png" alt="Waving Hand Light Skin Tone" width="35"  />, I'm MUHAMMED BAHIZ N</h1>
+<div align="center">
+  
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=30&pause=1000&color=00D9FF&center=true&vCenter=true&random=false&width=600&lines=Flutter+Developer+%F0%9F%93%B1;Python+Enthusiast+%F0%9F%90%8D;Open+Source+Contributor+%F0%9F%8C%9F;Always+Learning+%F0%9F%9A%80)](https://git.io/typing-svg)
 
-## <img src="./assets/Man%20Technologist%20Light%20Skin%20Tone.png" width="35"/> About Me
-<br/>&nbsp;&nbsp;
-<img align="right" alt="coding" width="300" src="./assets/coding.gif"/> &nbsp;&nbsp;
-- <img src="./assets/telescope.gif" width="30"/> I am open to new opportunities and eager to contribute my skills and expertise.<br>
-- <img src="./assets/collaborate.gif" width="30"/> I’m looking to collaborate on Open Source Project<br>
-- <img src="./assets/seedling.gif" width="30"/> I’m currently learning flutter<br>
-- <img src="./assets/ask_me.gif" width="20"/> Ask me about flutter, python, php .<br>
-- <img src="./assets/mail.gif" width="30"/> How to <a href="mailto:bahiznalakath123@gmail.com">reach me</a><br>
-- <img src="./assets/thunder.gif" height="20"/> I like Coding
-<br><br>
+</div>
 
-## <img src="./assets/Eyes.png" width="25"/> Views and <img src="./assets/Blue%20Heart.png" width="25"/> Followers
-<br>
-<a href="https://github.com/bahiznalakath">
-    <img src="https://komarev.com/ghpvc/?username=bahiznalakath">
-</a>
-<a href="https://github.com/bahiznalakath-KP?tab=followers"><img src="https://img.shields.io/github/followers/bahiznalakath?label=Followers&style=social" alt="GitHub Badge"></a>
-<br><br>
+<img align="right" alt="Coding Animation" width="400" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif"/>
 
+### 🌟 About Me
 
+```typescript
+const bahiz = {
+    pronouns: "he/him",
+    code: ["Dart", "Flutter", "Python", "PHP", "JavaScript"],
+    askMeAbout: ["Flutter", "Mobile Development", "Python", "Web Development"],
+    technologies: {
+        mobile: ["Flutter", "Android"],
+        frontEnd: ["HTML", "CSS", "JavaScript"],
+        backEnd: ["PHP", "Python"],
+        databases: ["MySQL"],
+        tools: ["Git", "VS Code", "Android Studio"]
+    },
+    currentFocus: "Building beautiful mobile applications with Flutter",
+    funFact: "I turn coffee into code ☕️"
+};
+```
 
-## <img src="./assets/spinning-globe-animated.gif" width="25"> Socials
-<br>
+<br clear="right"/>
 
-<a href = "https://twitter.com/bahiznalakath"><img src="https://img.icons8.com/fluent/48/000000/twitter.png"/></a>
-<a href = "https://www.linkedin.com/in/muhammed-bahiz-n-789a01228/"><img src="https://img.icons8.com/fluency/1x/linkedin.png"/></a>
-<a href = "https://instagram.com/bahiz_nalakath?igshid=MzRlODBiNWFlZA=="><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png"/></a>
-<br><br>
+## 🎯 What I'm Up To
 
+<table>
+  <tr>
+    <td>🔭 <strong>Currently Working On</strong></td>
+    <td>Exciting Flutter projects and open-source contributions</td>
+  </tr>
+  <tr>
+    <td>🌱 <strong>Learning</strong></td>
+    <td>Advanced Flutter techniques and state management</td>
+  </tr>
+  <tr>
+    <td>👯 <strong>Looking to Collaborate</strong></td>
+    <td>Open source projects, especially in Flutter ecosystem</td>
+  </tr>
+  <tr>
+    <td>💬 <strong>Ask Me About</strong></td>
+    <td>Flutter, Python, Mobile Development, or anything tech!</td>
+  </tr>
+  <tr>
+    <td>📫 <strong>Reach Me</strong></td>
+    <td><a href="mailto:bahiznalakath123@gmail.com">bahiznalakath123@gmail.com</a></td>
+  </tr>
+</table>
 
-##  <img src="assets/Rocket.png" width="30"> Languages and Tools
-<br>
+## 🛠️ Tech Stack
 
-<p align="left"> 
-<a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a>
-<a href="https://dart.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/> </a>
-<a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a>
-<a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> 
-<a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> 
-<a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/></a> 
-<a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a>
-<a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> 
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> 
-<a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> 
-<a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> 
-<a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+<div align="center">
 
-<br><br>
-## <img src="./assets/graph-animation.gif" width="30"/> GitHub Stats:
-<br>
+### 📱 Mobile Development
+![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white)
+![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white)
+![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
 
-![](https://github-readme-stats-sigma-five.vercel.app/api?username=bahiznalakath&theme=dark&hide_border=true&include_all_commits=false&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=bahiznalakath&theme=dark&hide_border=true)<br/>
-![](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=bahiznalakath&theme=dark&hide_border=true&include_all_commits=false&count_private=true&layout=compact) [![Bahiz's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=bahiznalakath&theme=tokyo-night)](https://github.com/bahiznalakath?tab=repositories)
-<br><br>
+### 💻 Programming Languages
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
 
-## <img src="./assets/trophies.gif" width="30"/> GitHub Trophies
-<br>
+### 🌐 Web Technologies
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 
-![](https://github-profile-trophy.vercel.app/?username=bahiznalakath&theme=dark_dimmed&no-frame=false&no-bg=true&margin-w=4)
+### 🗄️ Databases
+![MySQL](https://img.shields.io/badge/mysql-%2300000f.svg?style=for-the-badge&logo=mysql&logoColor=white)
 
-<br>
+### 🔧 Tools & Platforms
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+
+</div>
+
+## 🤝 Connect With Me
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/muhammed-bahiz-n-789a01228/)
+[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)](https://twitter.com/bahiznalakath)
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://instagram.com/bahiz_nalakath?igshid=MzRlODBiNWFlZA==)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:bahiznalakath123@gmail.com)
+
+</div>
+
+## 📊 GitHub Analytics
+
+<div align="center">
+  
+<img width="49%" height="195px" src="https://github-readme-stats-sigma-five.vercel.app/api?username=bahiznalakath&show_icons=true&count_private=true&hide_border=true&title_color=00D9FF&icon_color=00D9FF&text_color=c9d1d9&bg_color=0d1117" alt="Bahiz's GitHub Stats" />
+
+<img width="49%" height="195px" src="https://github-readme-streak-stats.herokuapp.com/?user=bahiznalakath&hide_border=true&stroke=0000&background=0d1117&ring=00D9FF&fire=00D9FF&currStreakLabel=00D9FF" alt="Bahiz's GitHub Streak" />
+
+</div>
+
+<div align="center">
+  
+<img width="49%" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=bahiznalakath&layout=compact&hide_border=true&title_color=00D9FF&text_color=c9d1d9&bg_color=0d1117" alt="Bahiz's Top Languages" />
+
+<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=bahiznalakath&theme=github_dark&utcOffset=5.5" alt="Bahiz's Productive Time" />
+
+</div>
+
+## 🏆 GitHub Achievements
+
+<div align="center">
+  
+![Trophies](https://github-profile-trophy.vercel.app/?username=bahiznalakath&theme=algolia&no-frame=false&no-bg=false&margin-w=4&row=1)
+
+</div>
+
+## 📈 Contribution Graph
+
+<div align="center">
+  
+[![Bahiz's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=bahiznalakath&bg_color=0d1117&color=00d9ff&line=00d9ff&point=ffffff&area=true&hide_border=true)](https://github.com/bahiznalakath)
+
+</div>
+
+## 💭 Random Dev Quote
+
+<div align="center">
+
+![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=Code%20is%20like%20humor.%20When%20you%20have%20to%20explain%20it,%20it's%20bad.&author=Cory%20House)
+
+</div>
+
+## 📊 Profile Views
+
+<div align="center">
+  
+[![Profile Views](https://komarev.com/ghpvc/?username=bahiznalakath&label=Profile%20Views&color=00d9ff&style=for-the-badge)](https://github.com/bahiznalakath)
+[![GitHub Followers](https://img.shields.io/github/followers/bahiznalakath?label=Followers&style=for-the-badge&color=00d9ff)](https://github.com/bahiznalakath?tab=followers)
+
+</div>
+
+## ☕ Support My Work
+
+<div align="center">
+
+If you like my work and want to support me, consider buying me a coffee! ☕
+
+[![Buy Me A Coffee](https://img.shields.io/badge/Buy%20Me%20A%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://www.buymeacoffee.com/bahiznalakr)
+
+</div>
 
 ---
-<br>
 
-## <img src="./assets/Dove.png" width="30"> Latest Tweet
+<div align="center">
+  
+### 💫 "The best way to predict the future is to create it!" 💫
 
+**Happy Coding!** 🚀
 
-<a href="https://twitter.com/bahiznalakath"><img src="https://gtce.itsvg.in/api?username=bahiznalakath&theme=discord_old_blurple&icon=user&border=false"/></a>
+</div>
 
-<br/><br/>
-
-### <img src="./assets/Writing%20Hand%20Light%20Skin%20Tone.png" width=25> Random Dev Quote
-
->![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
-
-<br>
-
-### <img src="./assets/Face%20with%20Tears%20of%20Joy.png" width=25> Random Dev Meme
-<br>
-
-<p align="center"><img src="https://dynamic-badges.maxalpha.repl.co/meme" width=400 height=300/></p>
-
-<br>
-
----
-
-<br>
-
-## Loved my work? <img src="assets/Heart on Fire.png" width="30">
-<br>
-
-<img src="assets/Star.png" width="25"/>&nbsp;[Give a star to this project](https://github.com/MOHAMMED-FAZIL-KP/MOHAMMED-FAZIL-KP) <br/>
-<img src="assets/Folded Hands Light Skin Tone.png" width="25"/>&nbsp;[Follow me on GitHub](https://github.com/MOHAMMED-FAZIL-KP)<br/>
-<img src="assets/Hot Beverage.png" width="25"> [Buy me a coffee]( https://www.buymeacoffee.com/bahiznalakr) (Tired of drinking Tea)
-
-<br><br><br>
-
-### Thanks for visiting! &nbsp;<img src="./assets/Partying Face.png" width="25">
-
-<br><br><br>
-
----
-
-
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=00D9FF&height=120&section=footer"/>
+</div>
