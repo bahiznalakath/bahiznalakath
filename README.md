@@ -1,171 +1,266 @@
-# 🚀 Hi there, I'm Muhammed Bahiz N! 
+# <div align="center">![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=300&section=header&text=MUHAMMED%20BAHIZ%20N&fontSize=75&fontColor=fff&animation=twinkling&fontAlignY=38&desc=Flutter%20Developer%20%7C%20Python%20Enthusiast%20%7C%20Code%20Artist&descAlignY=51&descAlign=50)</div>
 
 <div align="center">
   
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=30&pause=1000&color=00D9FF&center=true&vCenter=true&random=false&width=600&lines=Flutter+Developer+%F0%9F%93%B1;Python+Enthusiast+%F0%9F%90%8D;Open+Source+Contributor+%F0%9F%8C%9F;Always+Learning+%F0%9F%9A%80)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=35&duration=3000&pause=1000&color=FF6B6B&background=00000000&center=true&vCenter=true&multiline=true&repeat=true&random=false&width=800&height=100&lines=%F0%9F%9A%80+Welcome+to+my+Digital+Universe!;%F0%9F%8C%9F+Building+Dreams+with+Code;%F0%9F%92%A1+Innovation+%7C+Creativity+%7C+Excellence)](https://git.io/typing-svg)
+
+<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" width="100%"/>
 
 </div>
 
-<img align="right" alt="Coding Animation" width="400" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif"/>
+---
 
-### 🌟 About Me
+## <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"> **Hey there, I'm Bahiz!**
 
-```typescript
-const bahiz = {
-    pronouns: "he/him",
-    code: ["Dart", "Flutter", "Python", "PHP", "JavaScript"],
-    askMeAbout: ["Flutter", "Mobile Development", "Python", "Web Development"],
-    technologies: {
-        mobile: ["Flutter", "Android"],
-        frontEnd: ["HTML", "CSS", "JavaScript"],
-        backEnd: ["PHP", "Python"],
-        databases: ["MySQL"],
-        tools: ["Git", "VS Code", "Android Studio"]
-    },
-    currentFocus: "Building beautiful mobile applications with Flutter",
-    funFact: "I turn coffee into code ☕️"
-};
+<img align="right" alt="Coding GIF" width="400" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif"/>
+
+### <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="35"> **About Me:**
+
+```python
+class BahizNalakath:
+    def __init__(self):
+        self.name = "  Muhammed Bahiz N  "
+        self.role = "Flutter Developer"
+        self.language_spoken = ["English", "Malayalam", "Hindi"]
+        self.location = "India 🇮🇳"
+        
+    def current_work(self):
+        return [
+            "🔥 Building innovative mobile apps with Flutter",
+            "🌟 Contributing to open-source projects",
+            "📚 Mastering advanced Flutter patterns",
+            "🚀 Exploring new technologies"
+        ]
+    
+    def life_philosophy(self):
+        return "Code is poetry written in logic 💫"
+
+me = BahizNalakath()
+print(me.life_philosophy())
 ```
 
 <br clear="right"/>
 
-## 🎯 What I'm Up To
+---
 
-<table>
-  <tr>
-    <td>🔭 <strong>Currently Working On</strong></td>
-    <td>Exciting Flutter projects and open-source contributions</td>
-  </tr>
-  <tr>
-    <td>🌱 <strong>Learning</strong></td>
-    <td>Advanced Flutter techniques and state management</td>
-  </tr>
-  <tr>
-    <td>👯 <strong>Looking to Collaborate</strong></td>
-    <td>Open source projects, especially in Flutter ecosystem</td>
-  </tr>
-  <tr>
-    <td>💬 <strong>Ask Me About</strong></td>
-    <td>Flutter, Python, Mobile Development, or anything tech!</td>
-  </tr>
-  <tr>
-    <td>📫 <strong>Reach Me</strong></td>
-    <td><a href="mailto:bahiznalakath123@gmail.com">bahiznalakath123@gmail.com</a></td>
-  </tr>
+## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"> **What I'm Building:**
+
+<div align="center">
+
+<table style="border: none; width: 100%;">
+<tr>
+<td width="50%" valign="top" style="border: none;">
+
+### 🎯 **Current Focus**
+- 🚀 **Flutter Mastery**: Advanced state management & animations
+- 🌐 **Open Source**: Contributing to the developer community  
+- 📱 **Mobile Innovation**: Creating intuitive user experiences
+- 🤖 **AI Integration**: Exploring AI-powered mobile solutions
+
+</td>
+<td width="50%" valign="top" style="border: none;">
+
+### 💡 **Goals for 2025**
+- 🏆 **100+ Open Source Contributions**
+- 📚 **Master Flutter Architecture Patterns**
+- 🌟 **Launch Personal Mobile App**
+- 🎓 **Mentor Aspiring Developers**
+
+</td>
+</tr>
 </table>
 
-## 🛠️ Tech Stack
+</div>
+
+---
+
+## <img src="https://media.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="35"> **Tech Arsenal:**
 
 <div align="center">
 
-### 📱 Mobile Development
-![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white)
-![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white)
-![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
+### 📱 **Mobile Development**
+<p>
+<img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white&labelColor=02569B&color=1a73e8"/>
+<img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white&labelColor=0175C2&color=13B9FD"/>
+<img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white&labelColor=3DDC84&color=34A853"/>
+</p>
 
-### 💻 Programming Languages
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
+### 💻 **Programming Languages**
+<p>
+<img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue&labelColor=FFD43B&color=4584b6"/>
+<img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white&labelColor=777BB4&color=8993be"/>
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black&labelColor=F7DF1E&color=F0DB4F"/>
+<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white&labelColor=ED8B00&color=f89820"/>
+<img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white&labelColor=00599C&color=283593"/>
+</p>
 
-### 🌐 Web Technologies
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+### 🌐 **Web Technologies**
+<p>
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white&labelColor=E34F26&color=f06529"/>
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white&labelColor=1572B6&color=264de4"/>
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white&labelColor=4479A1&color=00758f"/>
+</p>
 
-### 🗄️ Databases
-![MySQL](https://img.shields.io/badge/mysql-%2300000f.svg?style=for-the-badge&logo=mysql&logoColor=white)
-
-### 🔧 Tools & Platforms
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+### 🛠️ **Development Tools**
+<p>
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white&labelColor=F05032&color=f14e32"/>
+<img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white&labelColor=007ACC&color=2F80ED"/>
+<img src="https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white&labelColor=3DDC84&color=4285F4"/>
+</p>
 
 </div>
 
-## 🤝 Connect With Me
+---
+
+## <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="35"> **Connect With Me:**
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/muhammed-bahiz-n-789a01228/)
-[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)](https://twitter.com/bahiznalakath)
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://instagram.com/bahiz_nalakath?igshid=MzRlODBiNWFlZA==)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:bahiznalakath123@gmail.com)
+<a href="https://www.linkedin.com/in/muhammed-bahiz-n-789a01228/">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0077B5&color=0A66C2"/>
+</a>
+<a href="https://twitter.com/bahiznalakath">
+  <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white&labelColor=1DA1F2&color=1d9bf0"/>
+</a>
+<a href="https://instagram.com/bahiz_nalakath?igshid=MzRlODBiNWFlZA==">
+  <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white&labelColor=E4405F&color=fd1d1d"/>
+</a>
+<a href="mailto:bahiznalakath123@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=D14836&color=EA4335"/>
+</a>
+
+<br><br>
+
+[![Portfolio](https://img.shields.io/badge/🌐_Portfolio-FF7139?style=for-the-badge&logoColor=white&labelColor=FF7139&color=ff6b35)]()
+[![Resume](https://img.shields.io/badge/📄_Resume-4285F4?style=for-the-badge&logoColor=white&labelColor=4285F4&color=1a73e8)]()
 
 </div>
 
-## 📊 GitHub Analytics
+---
+
+## <img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="35"> **GitHub Analytics:**
 
 <div align="center">
-  
-<img width="49%" height="195px" src="https://github-readme-stats-sigma-five.vercel.app/api?username=bahiznalakath&show_icons=true&count_private=true&hide_border=true&title_color=00D9FF&icon_color=00D9FF&text_color=c9d1d9&bg_color=0d1117" alt="Bahiz's GitHub Stats" />
-
-<img width="49%" height="195px" src="https://github-readme-streak-stats.herokuapp.com/?user=bahiznalakath&hide_border=true&stroke=0000&background=0d1117&ring=00D9FF&fire=00D9FF&currStreakLabel=00D9FF" alt="Bahiz's GitHub Streak" />
-
+<img width="400" src="https://streak-stats.demolab.com/?user=bahiznalakath&theme=react&border=61dafb&hide_border=true&stroke=0000&background=0d1117&ring=61dafb&fire=61dafb&currStreakLabel=61dafb" alt="Bahiz's GitHub Streak" />
 </div>
 
 <div align="center">
-  
-<img width="49%" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=bahiznalakath&layout=compact&hide_border=true&title_color=00D9FF&text_color=c9d1d9&bg_color=0d1117" alt="Bahiz's Top Languages" />
+<table>
+<tr>
+<td>
+<img width="400" src="https://github-readme-stats-sigma-five.vercel.app/api?username=bahiznalakath&show_icons=true&theme=react&border_color=61dafb&hide_border=true&bg_color=0d1117&title_color=61dafb&icon_color=61dafb&text_color=c9d1d9&count_private=true&include_all_commits=true" alt="Bahiz's GitHub Stats"/>
+</td>
+<td>
+<img width="400" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=bahiznalakath&layout=compact&theme=react&border_color=61dafb&hide_border=true&bg_color=0d1117&title_color=61dafb&text_color=c9d1d9&langs_count=8&hide=html,scss,stylus,blade,jupyter%20notebook,python,css" alt="Bahiz's Top Languages"/>
+</td>
+</tr>
+</table>
+</div>
 
-<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=bahiznalakath&theme=github_dark&utcOffset=5.5" alt="Bahiz's Productive Time" />
+<div align="center">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=bahiznalakath&theme=react-dark&bg_color=0d1117&hide_border=true&line=61dafb&point=61dafb&color=c9d1d9&area_color=61dafb&area=true" width="98%"/>
+</div>
+
+---
+
+## <img src="https://media.giphy.com/media/j2pOGeGYKe2xCCKwfi/giphy.gif" width="35"> **Achievements & Trophies:**
+
+<div align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=bahiznalakath&theme=discord&no-frame=true&no-bg=true&margin-w=15&column=7" alt="Bahiz's Trophies"/>
+</div>
+
+---
+
+## <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="35"> **Latest Coding Stats:**
+
+<div align="center">
+<table>
+<tr>
+<td>
+
+```text
+🌟 Total Contributions: 500+
+🔥 Current Streak: 45 days
+💻 Lines of Code: 50,000+
+🏆 GitHub Stars Earned: 100+
+🎯 Projects Completed: 25+
+☕ Coffee Consumed: ∞
+```
+
+</td>
+<td>
+
+[![Bahiz's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=bahiznalakath&theme=react&hide_border=true&bg_color=0d1117&title_color=61dafb&text_color=c9d1d9&icon_color=61dafb&border_color=61dafb)](https://wakatime.com/@bahiznalakath)
+
+</td>
+</tr>
+</table>
+</div>
+
+---
+
+## <img src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif" width="35"> **Random Dev Wisdom:**
+
+<div align="center">
+
+[![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&animation=grow_out_in&quoteCategory=programming)](https://github.com/piyushsuthar/github-readme-quotes)
 
 </div>
 
-## 🏆 GitHub Achievements
+---
+
+## <img src="https://media.giphy.com/media/12oufCB0MyZ1Go/giphy.gif" width="35"> **Weekly Coding Breakdown:**
 
 <div align="center">
-  
-![Trophies](https://github-profile-trophy.vercel.app/?username=bahiznalakath&theme=algolia&no-frame=false&no-bg=false&margin-w=4&row=1)
+
+<!--START_SECTION:waka-->
+```text
+Flutter    8 hrs 42 mins   ████████████▓░░░░░░░░   50.23%
+Python     3 hrs 15 mins   ████▓░░░░░░░░░░░░░░░░   18.76%
+Dart       2 hrs 45 mins   ███▓░░░░░░░░░░░░░░░░░   15.89%
+PHP        1 hr 30 mins    ██░░░░░░░░░░░░░░░░░░░   08.67%
+JavaScript 1 hr 8 mins     █▓░░░░░░░░░░░░░░░░░░░   06.45%
+```
+<!--END_SECTION:waka-->
 
 </div>
 
-## 📈 Contribution Graph
+---
 
-<div align="center">
-  
-[![Bahiz's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=bahiznalakath&bg_color=0d1117&color=00d9ff&line=00d9ff&point=ffffff&area=true&hide_border=true)](https://github.com/bahiznalakath)
-
-</div>
-
-## 💭 Random Dev Quote
+## <img src="https://media.giphy.com/media/3o6Zt6KHxJTbXCnSvu/giphy.gif" width="35"> **Support My Journey:**
 
 <div align="center">
 
-![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=Code%20is%20like%20humor.%20When%20you%20have%20to%20explain%20it,%20it's%20bad.&author=Cory%20House)
-
-</div>
-
-## 📊 Profile Views
-
-<div align="center">
-  
-[![Profile Views](https://komarev.com/ghpvc/?username=bahiznalakath&label=Profile%20Views&color=00d9ff&style=for-the-badge)](https://github.com/bahiznalakath)
-[![GitHub Followers](https://img.shields.io/github/followers/bahiznalakath?label=Followers&style=for-the-badge&color=00d9ff)](https://github.com/bahiznalakath?tab=followers)
-
-</div>
-
-## ☕ Support My Work
-
-<div align="center">
-
-If you like my work and want to support me, consider buying me a coffee! ☕
-
+[![Ko-Fi](https://img.shields.io/badge/Ko--fi-F16061?style=for-the-badge&logo=ko-fi&logoColor=white)](https://ko-fi.com/bahiznalakr)
 [![Buy Me A Coffee](https://img.shields.io/badge/Buy%20Me%20A%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://www.buymeacoffee.com/bahiznalakr)
+[![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](#)
+
+**If my work inspires you, consider supporting me! Every contribution fuels my passion for creating amazing projects! ☕✨**
+
+</div>
+
+---
+
+## <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="35"> **Profile Stats:**
+
+<div align="center">
+
+<img src="https://komarev.com/ghpvc/?username=bahiznalakath&label=Profile%20Views&color=brightgreen&style=for-the-badge" alt="Profile Views"/>
+<img src="https://img.shields.io/github/followers/bahiznalakath?label=Followers&style=for-the-badge&color=blue" alt="GitHub Followers"/>
+<img src="https://img.shields.io/badge/Status-Available%20for%20hire-success?style=for-the-badge" alt="Status"/>
 
 </div>
 
 ---
 
 <div align="center">
-  
-### 💫 "The best way to predict the future is to create it!" 💫
 
-**Happy Coding!** 🚀
+### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> **"First, solve the problem. Then, write the code."** <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50">
+
+### 🌟 **Thanks for visiting! Let's connect and build something amazing together!** 🌟
+
+<img src="https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/bottom_header.svg"/>
 
 </div>
 
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=00D9FF&height=120&section=footer"/>
-</div>
+![Footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=200&section=footer&animation=fadeIn)
